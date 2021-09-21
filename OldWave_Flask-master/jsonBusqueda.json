@@ -1,0 +1,22 @@
+{
+    "query" : " ",
+    "total" : 0,
+    "items" : [
+        {
+            "id": 1,
+            "name": " ",
+            "brand": " ",
+            "thumbnail": "URL",
+            "city": {
+                "id": 1,
+                "name": " "
+            },
+            "price": 0.0,
+            "rating": 0.0
+        }
+    ],
+    "seller": {
+        "id": 1,
+        "name": " "
+    }
+}

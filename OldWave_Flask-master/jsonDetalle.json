@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": " ",
+    "brand": " ",
+    "pictures": ["URL","URL"],
+    "city": {
+        "id": 1,
+        "name": " "
+    },
+    "price": 0.0,
+    "rating": 0.0,
+    "description": " ",
+    "seller": {
+        "id": 1,
+        "name": " ",
+        "logo": " "
+    }
+}
